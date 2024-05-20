@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)](https://mahendhar1748.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif)](https://mahendhar1748.io)
 <h1 align="center">Hi 👋, I'm Mahendhar</h1>
 <h3 align="center">A passionate Machine Learning Devoloper from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">

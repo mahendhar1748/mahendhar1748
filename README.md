@@ -1,6 +1,6 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif)](https://mahendhar1748.io)
+[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDgwYmVteW4yMzZzdndlbHlmZXEyeDVjNHk5bDVwMG1kdGl6dXRlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)](https://mahendhar1748.io)
 <h1 align="center">Hi 👋, I'm Mahendhar</h1>
-<h3 align="center">A passionate Machine Learning Devoloper from India</h3>
+<h3 align="center">Passion In Data Science </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendhar1748&label=Profile%20views&color=0e75b6&style=flat" alt="mahendhar1748" /> </p>
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Data Science and AI**
 
-- 👯 I’m looking to collaborate on **ML Projects**
+- 👯 I’m looking to collaborate on **DS Projects**
 
-- 💬 Ask me about **ML and Python**
+- 💬 Ask me about **Ds and Python**
 
 - 📫 How to reach me **mahendharbaira@gmail.com**
 

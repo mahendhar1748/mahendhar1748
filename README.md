@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-v4Mp94NkETMdURo-AghvznB-iU7IM0vFK74ikHy3mBzTdcwZzITQuQPuv2sCR8kbyKw&usqp=CAU)](https://mahendhar1748.io)
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://mahendhar1748.io)
 <h1 align="center">Hi 👋, I'm Mahendhar</h1>
 <h3 align="center">Passion In Data Science </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">

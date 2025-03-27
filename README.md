@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ICS Print**
 
-- 🌱 I’m currently learning **Data Science and AI**
+- 🌱 Passion in  **Data Science and AI**
 
 - 👯 I’m looking to collaborate on **DS Projects**
 
